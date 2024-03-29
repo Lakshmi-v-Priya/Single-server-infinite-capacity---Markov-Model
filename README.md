@@ -31,4 +31,7 @@ REG NO : 212223220049
 ![image](https://github.com/Lakshmi-v-Priya/Single-server-infinite-capacity---Markov-Model/assets/151720706/547a1576-4970-49ba-84e9-f54c95d01f32)
 
 ## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+
+
 
